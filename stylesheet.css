@@ -22,6 +22,7 @@ a {
   margin: 0 auto;
 }
 
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(background.jpg);
@@ -149,18 +150,15 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 33%;
 }
 
 .lesson-icon {
   position: relative;
 }
 
-.lesson-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
-  color: white;
+.lesson-icon img {
+  border-radius: 50%;
 }
 
 .text-contents {

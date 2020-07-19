@@ -220,3 +220,13 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+
+.last h3{
+  color:blue;
+  font-weight: bold;
+}
+
+.last p{
+  color:green;
+  font-weight: bold;
+}
